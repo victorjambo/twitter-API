@@ -1,9 +1,9 @@
 
-#Ruby Twitter Examples
+# Ruby Twitter Examples
 
 A set of Python scripts to demonstrate interactions with the Twitter API
 
-Usage
+## Usage
 
 You will need to authenticate with Twitter to use these scripts. To do so, sign up for developer credentials and create a Twitter app here:
 
